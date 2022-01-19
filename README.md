@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**michaelcordeiro/michaelcordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Michael Cordeiro 🇧🇷
 
-Here are some ideas to get you started:
+Sou Desenvolvedor de Software (Front End)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
+
+### 🌍 "Investir em conhecimento rende os melhores juros" 🧠
+
+- 📍 De Almenara MG
+- 👨‍💻 Desenvolvedor Jr
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/michael-douglas-sousa-cordeiro-548b89201/)](https://https://www.linkedin.com/in/michael-douglas-sousa-cordeiro-548b89201/)
